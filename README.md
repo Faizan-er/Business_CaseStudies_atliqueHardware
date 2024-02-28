@@ -1,0 +1,2 @@
+<h3>ANALYTICS: BUSINESS CASE STUDIES</h3>
+<p></p>Welcome to the repo with best-selected business case studies developed by Mr. Faizan Shakeel independently or in collaboration with individuals from various organizations. The data and approach provided herein are strictly intended for educational purposes and are not authorized for commercial use.  Credit has been given to the respective source owners. <be> Regards, Faizan</p>
