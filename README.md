@@ -11,7 +11,6 @@
 5. Insights and Recommendations: Analysis of sales data revealed insights into factors contributing to declining sales, enabling actionable recommendations for business growth.
 
 Technologies Used:
-
 MySQL: Storing and retrieving sales data.
 Power BI: Data exploration, modeling, and dashboard development, offering interactive visualizations and insights.
 
